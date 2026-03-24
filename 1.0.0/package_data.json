@@ -1,51 +1,53 @@
 {
-    "name": "-gnext",
+    "name": "007-todo_list",
     "version": "1.0.0",
-    "description": "@satoki00",
     "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "postinstall": "node index.js"
+    "type": "module",
+    "bin": {
+        "007-todo_list": "index.js"
     },
-    "keywords": [
-        "hack"
-    ],
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
     "author": {
-        "name": "Satoki",
-        "email": "t.satoki111@gmail.com",
-        "url": "https://github.com/satoki"
+        "name": "Ayesha Mughal"
     },
     "license": "ISC",
-    "_id": "-gnext@1.0.0",
-    "_nodeVersion": "21.1.0",
-    "_npmVersion": "10.2.0",
+    "dependencies": {
+        "chalk": "^5.3.0",
+        "inquirer": "^9.2.17"
+    },
+    "_id": "007-todo_list@1.0.0",
+    "_nodeVersion": "20.11.1",
+    "_npmVersion": "10.5.0",
     "dist": {
-        "integrity": "sha512-nut6G1pv8spCPuY8lIp9aMMB35W0R999vhB5yd9vgctvjgyXTlZutX05rpL7hy/9DhtvYjHysWeZQ+awmdDdgw==",
-        "shasum": "3c0d8edbd202a63046f42898d87d1b25aed1d361",
-        "tarball": "https://registry.npmjs.org/-gnext/-/-gnext-1.0.0.tgz",
-        "fileCount": 2,
-        "unpackedSize": 677,
+        "integrity": "sha512-IDuu88bhU7IOH6liHLvfSHBn2jtvTZqXB9G+PrYFO/lcrTtMRYdCP/K3ZOCaiAKwOzOdYbduaTm4AOqIqT3KWA==",
+        "shasum": "3a753baf8dd6dcf522dee5d6be3709227d006091",
+        "tarball": "https://registry.npmjs.org/007-todo_list/-/007-todo_list-1.0.0.tgz",
+        "fileCount": 4,
+        "unpackedSize": 15723,
         "signatures": [
             {
                 "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
-                "sig": "MEQCIED8X5XH8RnczkKVj9OuGmO3qn/qnxT/2oIi7pYgHzvTAiAqQD6rvNNJMuuD56pnlmlx8aaBXxQma73cTJ9GAasHQQ=="
+                "sig": "MEYCIQDTGY2ochYJja+K3BBWjC/Nho6Q3i3U8mrvbw9J32BkYQIhAK45NSbzQVmdXpADW0bt8I+Vt6kJDfwHO3BSa/FFoInI"
             }
         ]
     },
     "_npmUser": {
-        "name": "satoki00",
-        "email": "t.satoki111@gmail.com"
+        "name": "ayeshamughal007",
+        "email": "ayeshamughal2162009@gmail.com"
     },
     "directories": {},
     "maintainers": [
         {
-            "name": "satoki00",
-            "email": "t.satoki111@gmail.com"
+            "name": "ayeshamughal007",
+            "email": "ayeshamughal2162009@gmail.com"
         }
     ],
     "_npmOperationalInternal": {
         "host": "s3://npm-registry-packages",
-        "tmp": "tmp/-gnext_1.0.0_1721274056942_0.9619799040766319"
+        "tmp": "tmp/007-todo_list_1.0.0_1711997523753_0.07025542612795443"
     },
     "_hasShrinkwrap": false
 }

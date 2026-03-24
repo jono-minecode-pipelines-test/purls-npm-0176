@@ -1,0 +1,55 @@
+{
+    "name": "0038_adventure_game_project",
+    "version": "1.0.1",
+    "main": "index.js",
+    "type": "module",
+    "publishConfig": {
+        "access": "public"
+    },
+    "bin": {
+        "0038_adventure_game_project": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^10.0.1"
+    },
+    "devDependencies": {
+        "@types/node": "^20.14.10"
+    },
+    "_id": "0038_adventure_game_project@1.0.1",
+    "_nodeVersion": "20.11.1",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-9+OLi+mX3reh4TAlatgR8+jch/aPd39ta3aeLC+awS0K8dHul7GXObm1sfwYjE57lfGscZJLKs1Y1vWKU+1Qrg==",
+        "shasum": "b53024dc2900df28854e8dd8090efce2cde6ca72",
+        "tarball": "https://registry.npmjs.org/0038_adventure_game_project/-/0038_adventure_game_project-1.0.1.tgz",
+        "fileCount": 4,
+        "unpackedSize": 27138,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIEeV5Byh5mHFTFwQuAz/ffzl6dbrWcNUxhMKwK5z8vvVAiBcv8zldLhOlPp2BrfD8GJbinGiG/Mscpoh4rhRCd+Z2g=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "aitech03",
+        "email": "afnanzagq@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "aitech03",
+            "email": "afnanzagq@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0038_adventure_game_project_1.0.1_1720695280594_0.31584131838306195"
+    },
+    "_hasShrinkwrap": false
+}

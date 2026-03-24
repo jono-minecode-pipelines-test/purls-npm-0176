@@ -1,0 +1,60 @@
+{
+    "name": "00_currency_converter",
+    "version": "1.5.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "00_currency_converter": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "chalk": "^5.2.0",
+        "figlet": "^1.5.2",
+        "inquirer": "^9.1.4"
+    },
+    "devDependencies": {
+        "@types/chalk": "^2.2.0",
+        "@types/figlet": "^1.5.5",
+        "@types/inquirer": "^9.0.3"
+    },
+    "gitHead": "e56a3f741c597b7afaefac678934febdf1d2c075",
+    "_id": "00_currency_converter@1.5.0",
+    "_nodeVersion": "16.18.0",
+    "_npmVersion": "9.1.2",
+    "dist": {
+        "integrity": "sha512-rpQsxSrylTR2ysyCtvkB+N5bGcggQJbSfToP3c8PC0GzROT0YQsKMPA1jsFNHihgloc+7rwXGFp8jiahGQSFSQ==",
+        "shasum": "bdfc190f9ca9ce8ceed3a2cfdb52b03345ee44e8",
+        "tarball": "https://registry.npmjs.org/00_currency_converter/-/00_currency_converter-1.5.0.tgz",
+        "fileCount": 6,
+        "unpackedSize": 26396,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCYGxX74xpXE+aSNAFIiTwR0Ky3IKiARv2t8rFJTywy6QIgfAtb54+ZdCHIh+wFcCGwtOgUspES7mYX3DN56IUMtGE="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJjlxdXACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqGNA//elSCKyJTqm+1EaDPyu1Gi9/pMdoO/sdib59Mzuzv8c/+wQvZ\r\nSFVGGQ7mSgaOzJt9HprikWMNbAJhajc9DY5W+DJymOxmotTn8FeWyxxHLX5r\r\nGeGh6nG2SJcuvL6eM9Y3hdq8jQMuh6oOnzIBfVj7bwcdj6rTyLMwhBJz0yLK\r\nNSC6P3rGqYmVQKFD9x4lQfOjqSPd+EMmqiPsBxSzlkKh9b0JcuOFbGgHuprO\r\n8XZdf/Eer7/wPhzuvAVP9q3npNi5ZjeMePxoUG3dZFRuQuKDToNHo5hbWYH/\r\nI4wcA5s8M2TTb2rmzDD6dzbSUKuT2IsZRAU6CDSI13OU60zDL6K+R0FQWomZ\r\n97zSM5ZfOEytphCXCBpQ7+x8LbWL4A8MbbZEQsHTZ8eGft3tvz1Feq7rnWem\r\nQQ7gkVNnydT/Qtk8ZILVm3xDpVwgGdDLDfnKr+M1D+SBnuBmaFsiTdMiySnZ\r\nL7ygGsN/MFe+XGuSB1WuGUig4Mki/xWJWrD8mVwB4SR+mvoUAHSr/PjhZ6ij\r\nIx/CgYoCBO+WciVrUqRcH3UptekVwKaMWon2jn8Ik/rxU/ERIOg75uv3BiXz\r\noiUyi5u+mN7nsetBc1yCrqid859Ajt9pqd9wqG9hcLeQbi1pctT+sZ3vxYbv\r\nb9ISZw7bPHPfQ5J8qU8EZZLmE+9LtU76Umc=\r\n=zjwn\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "sajidmunawar",
+        "email": "sajidmunawar666@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "sajidmunawar",
+            "email": "sajidmunawar666@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/00_currency_converter_1.5.0_1670846295255_0.5004665740445569"
+    },
+    "_hasShrinkwrap": false
+}
